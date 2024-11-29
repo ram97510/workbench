@@ -1,1 +1,1 @@
-This is a sample text for GitHub commit.
+This is a sample text for GitHub commit from workbench.
